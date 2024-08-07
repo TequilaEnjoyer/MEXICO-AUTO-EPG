@@ -1,6 +1,6 @@
 # What is this???
 
-Here you can download EPG for US and UK channels collected from the site tvpassport.com
+Here you can download EPG for Mexican channels collected from the site gatotv.com
 
 # How to use?
 
